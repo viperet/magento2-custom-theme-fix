@@ -3,4 +3,9 @@ Fix for Magento 2 issue: Custom theme doesn't apply XML layout updates when appl
 
 https://github.com/magento/magento2/issues/7710
 
+Installation:
+```
+composer require viperet/themefix
+```
+
 Based on the code by https://github.com/shavounet
